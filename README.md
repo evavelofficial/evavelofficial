@@ -1,31 +1,32 @@
-<h1 align="center">🚀 Welcome to Evavel Official</h1>
+<h1 align="center">Evavel Private Limited</h1>
 
 <h3 align="center">
-Building Innovative Web Products, AI Tools & Digital Platforms
+Innovation • Technology • Growth
 </h3>
 
 <p align="center">
-Creating fast, scalable and user-friendly digital solutions for businesses and individuals worldwide.
+A technology company building digital products, brands and platforms across education, AI, business, wellness and events.<br>
+Mumbai, India
 </p>
 
 <p align="center">
 
 <a href="https://evavel.com">
-<img src="https://img.shields.io/badge/🌐-Website-blue?style=for-the-badge">
+<img alt="Website" src="https://img.shields.io/badge/Website-evavel.com-0B3D91?style=for-the-badge">
 </a>
 
-<a href="https://demo.calcs.one">
-<img src="https://img.shields.io/badge/🚀-Portfolio-success?style=for-the-badge">
+<a href="https://evavel.link">
+<img alt="All links" src="https://img.shields.io/badge/All_Links-evavel.link-C9A227?style=for-the-badge">
 </a>
 
-<a href="https://www.linkedin.com/company/evavel/">
-<img src="https://img.shields.io/badge/LinkedIn-Company-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="mailto:hello@evavel.com">
+<img alt="Email" src="https://img.shields.io/badge/Email-hello@evavel.com-555555?style=for-the-badge&logo=maildotru&logoColor=white">
 </a>
 
-</p>
+<a href="https://www.linkedin.com/company/evavel">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Company-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=evavelofficial&style=for-the-badge" />
 </p>
 
 ---
@@ -154,22 +155,25 @@ Building one of the world's largest ecosystems of:
 
 # 🤝 Let's Connect
 
-🌍 Website
+| | |
+|---|---|
+| 🌍 Website | [evavel.com](https://evavel.com) |
+| 🔗 All links | [evavel.link](https://evavel.link) |
+| ✉️ Email | [hello@evavel.com](mailto:hello@evavel.com) |
+| 🚀 Portfolio | [demo.calcs.one](https://demo.calcs.one) |
+| 💼 LinkedIn | [linkedin.com/company/evavel](https://www.linkedin.com/company/evavel) |
+| 📸 Instagram | [@evavelofficial](https://www.instagram.com/evavelofficial) |
+| ▶️ YouTube | [@evavelofficial](https://www.youtube.com/@evavelofficial) |
+| 𝕏 X | [@evavelofficial](https://x.com/evavelofficial) |
+| 📘 Facebook | [evavelofficial](https://www.facebook.com/evavelofficial) |
 
-https://evavel.com
-
-🚀 Portfolio
-
-https://demo.calcs.one
-
-💼 LinkedIn
-
-https://www.linkedin.com/company/evavel/
+> 🔒 Found a security issue in any Evavel project? Please report it privately to **hello@evavel.com** — see [SECURITY.md](SECURITY.md). Please don't open a public issue.
 
 ---
 
 <p align="center">
 
-⭐ Building the Future, One Product at a Time ⭐
+⭐ Building the Future, One Product at a Time ⭐<br>
+<sub>© Evavel Private Limited · Mumbai, India</sub>
 
 </p>
