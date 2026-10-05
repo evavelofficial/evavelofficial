@@ -33,9 +33,11 @@ Mumbai, India
 
 # 🌍 About Evavel
 
-Evavel is focused on building practical, scalable and high-performance digital products.
+**Evavel Private Limited** is a technology company based in Mumbai, India. We design, build and operate a growing portfolio of digital products and brands across education, AI, utilities, business, wellness and events.
 
-Our mission is to create web solutions that help businesses, creators, professionals and students succeed online.
+Every product is built in-house with a focus on speed, simplicity and trust, so that students, professionals and businesses get tools that just work.
+
+<sub>CIN: U82300MH2025PTC462832 · Registered in Maharashtra, India</sub>
 
 ---
 
