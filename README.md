@@ -87,7 +87,6 @@ We focus on four areas:
 | 🌍 Website | [evavel.com](https://evavel.com) |
 | 🔗 All links | [evavel.link](https://evavel.link) |
 | ✉️ Email | [hello@evavel.com](mailto:hello@evavel.com) |
-| 🚀 Portfolio | [demo.calcs.one](https://demo.calcs.one) |
 | 💼 LinkedIn | [linkedin.com/company/evavel](https://www.linkedin.com/company/evavel) |
 | 📸 Instagram | [@evavelofficial](https://www.instagram.com/evavelofficial) |
 | ▶️ YouTube | [@evavelofficial](https://www.youtube.com/@evavelofficial) |
