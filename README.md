@@ -63,19 +63,18 @@ Our mission is to create web solutions that help businesses, creators, professio
 
 # 🎯 Our Mission
 
-Building one of the world's largest ecosystems of:
+To build reliable, accessible and well-crafted digital products that create lasting value for the people and businesses who use them.
 
-🌐 HTML Website Templates
+We focus on four areas:
 
-🧮 Calculator Platforms
+| Area | Focus |
+|---|---|
+| 🎓 **Education** | Learning platforms for students, professionals and job seekers |
+| 🤖 **AI & Productivity** | Practical AI tools that save time and simplify everyday work |
+| 🧮 **Utilities** | Fast, accurate online calculators and tools |
+| 💼 **Business** | Digital solutions that help businesses grow online |
 
-🤖 AI Web Products
-
-💼 Business Website Solutions
-
-🎓 Educational Platforms
-
-🚀 Developer Tools
+**Our principles:** quality over quantity · privacy and security by design · fast, lightweight and accessible · built for the long term.
 
 ---
 
